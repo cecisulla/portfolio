@@ -6,6 +6,10 @@ on:
       - 'assets/img/portfolio/**'
   workflow_dispatch:
 
+# Garante permissão para o GITHUB_TOKEN alterar e enviar commits de volta
+permissions:
+  contents: write
+
 jobs:
   update:
     runs-on: ubuntu-latest
@@ -26,3 +30,4 @@ jobs:
         with:
           commit_message: "docs: atualiza imagens dinamicamente no README"
           branch: main
+          skip_ci: true
