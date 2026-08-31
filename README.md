@@ -52,6 +52,15 @@ Este espaço é uma amostra do meu trabalho e das minhas habilidades no setor da
 ## 🧵 Peças e trabalhos realizados
 
 <!-- IMAGES:START -->
+
+<img src="assets/img/portfolio/costura-1.jpg" width="300" alt="costura-1.jpg">
+<img src="assets/img/portfolio/costura-2.jpg" width="300" alt="costura-2.jpg">
+<img src="assets/img/portfolio/costura-3.jpg" width="300" alt="costura-3.jpg">
+<img src="assets/img/portfolio/costura-4.jpg" width="300" alt="costura-4.jpg">
+<img src="assets/img/portfolio/moda-1.jpg" width="300" alt="moda-1.jpg">
+<img src="assets/img/portfolio/producao-1.jpg" width="300" alt="producao-1.jpg">
+<img src="assets/img/portfolio/producao-2.jpg" width="300" alt="producao-2.jpg">
+
 <!-- IMAGES:END -->
 
 ## 📬 Entre em Contato
