@@ -6,7 +6,8 @@ const portifolio = {
         "hero_typed_items_old": ["Psicopedagogia", "Técnico em Modelagem do Vestuário"],
         "email": "cecisulla@gmail.com",
         "linkedin": "https://www.linkedin.com/in/cecilia-souza-de-almeida-mod",
-        "github": "http://github.com/cecisulla/portfolio"
+        "github": "http://github.com/cecisulla/portfolio",
+        "qrcode": "https://raw.githubusercontent.com/cecisulla/portfolio/main/assets/img/qr-profile.png"
     },
     "about": {
         "description": [
