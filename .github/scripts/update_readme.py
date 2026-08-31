@@ -14,7 +14,7 @@ images = sorted([f for f in os.listdir(IMAGE_DIR) if f.lower().endswith(('.png',
 # 3. Gera o HTML com Flexbox para distribuir e alinhar as imagens lado a lado
 image_tags = []
 for img in images:
-    tag = f'<img src="{IMAGE_DIR}/{img}" width="280" style="border-radius: 8px; object-fit: cover;" alt="{img}">'
+    tag = f'<img src="{IMAGE_DIR}/{img}" width="260" style="border-radius: 8px; object-fit: cover;" alt="{img}">'
     image_tags.append(tag)
 
 # Envolve as imagens em um contêiner flexível
