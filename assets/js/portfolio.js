@@ -85,16 +85,9 @@ const portifolio = {
             { "label": "Criação", "filter": ".filter-producao" },
             { "label": "Costura", "filter": ".filter-costura" }
         ],
-        "projects": [
+        "projects": [            
             {
-                "title": "Projeto Integrador - Desenvolvimento de Peças do Zero",
-                "category_class": "filter-moda",
-                "description": "Criação de peças de vestuário passando por todas as etapas: interpretação de desenho, elaboração de ficha técnica, modelagem, escolha de tecido, aviamentos e finalização da peça.",
-                "img": "assets/img/portfolio/moda-1.jpg",
-                "github_url": ""
-            },
-            {
-                "title": "Gestão e Corte de Lote Piloto",
+                "title": "Peças desenvolvidas por mim",
                 "category_class": "filter-producao",
                 "description": "Macacão pantacur feminino modelista Cecília, material tricoline, frente transpassado, com tres pregas tombadas para fora, bolso faca, ziper na lateral, acabamento pespontado em destaque, faixa na cintura e pala nas costas.",
                 "img": "assets/img/portfolio/producao-1.jpg",
@@ -106,6 +99,27 @@ const portifolio = {
                 "description": "Camisa social feminina modeleista Cecília, material tricoline, colarinho e pé de gola com entretela, maga longa com carcela na part interna, pumnho com entretela e botões com pensi frente e costas bainha de um centimetro.",
                 "img": "assets/img/portfolio/producao-2.jpg",
                 "github_url": ""
+            },            
+            {
+                "title": "Peças desenvolvidas por mim",
+                "category_class": "filter-costura",
+                "description": "Macacão vanguarda, todo em tecido jeans feito apartir de retalhos, bolso na lateral, bolso quadrado na frente com lapela, ziper na lateral de 17 centímetros desenvolvido durante o curso, onde fui desafiada a cria peça do zero, passando pela interpretação do desenho, ficha tecnica, modelagem, aviamentos até finalização da peça.",
+                "img": "assets/img/portfolio/costura-2.jpg",
+                "github_url": ""
+            },
+            {
+                "title": "Peças desenvolvidas por mim",
+                "category_class": "filter-costura",
+                "description": "Blusa em viscose, manga longa com elástico no punho da manga, bainha de um centímetro, decote canoa e pences no busto.",
+                "img": "assets/img/portfolio/costura-3.jpg",
+                "github_url": ""
+            },
+            {
+                "title": "Peças desenvolvidas por mim",
+                "category_class": "filter-costura",
+                "description": "Saia com recorte e babado leve godê, frente e costas, cós de quatro centímetros, zíper nas costas de 15 centímetros e barra de 2 centímetros.",
+                "img": "assets/img/portfolio/costura-4.jpg",
+                "github_url": ""
             },
             {
                 "title": "Confecção em Máquinas Industriais",
@@ -113,7 +127,15 @@ const portifolio = {
                 "description": "Uso avançado de reta, overlock e galoneira para acabamento de alta qualidade em alfaiataria e malharia.",
                 "img": "assets/img/portfolio/costura-1.jpg",
                 "github_url": ""
+            },
+            {
+                "title": "Projeto Integrador - Desenvolvimento de Peças do Zero",
+                "category_class": "filter-moda",
+                "description": "Criação de peças de vestuário passando por todas as etapas: interpretação de desenho, elaboração de ficha técnica, modelagem, escolha de tecido, aviamentos e finalização da peça.",
+                "img": "assets/img/portfolio/moda-1.jpg",
+                "github_url": ""
             }
+
         ]
     }
 };
