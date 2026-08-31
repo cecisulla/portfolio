@@ -49,6 +49,11 @@ Este espaço é uma amostra do meu trabalho e das minhas habilidades no setor da
 
 ---
 
+## 🧵 Habilidades e Ferramentas do Setor
+
+<!-- IMAGES:START -->
+<!-- IMAGES:END -->
+
 ## 📬 Entre em Contato
 
 Estou em busca de oportunidades como **Modelista, Costureira Industrial, Assistente de Estilo, Analista de Produção de Moda ou Assistente de Modelagem**. Se você deseja discutir sobre vagas, colaborar em projetos ou trocar ideias, entre em contato!
