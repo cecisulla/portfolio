@@ -53,13 +53,9 @@ Este espaço é uma amostra do meu trabalho e das minhas habilidades no setor da
 
 <!-- IMAGES:START -->
 
-<img src="assets/img/portfolio/costura-1.jpg" width="300" alt="costura-1.jpg">
-<img src="assets/img/portfolio/costura-2.jpg" width="300" alt="costura-2.jpg">
-<img src="assets/img/portfolio/costura-3.jpg" width="300" alt="costura-3.jpg">
-<img src="assets/img/portfolio/costura-4.jpg" width="300" alt="costura-4.jpg">
-<img src="assets/img/portfolio/moda-1.jpg" width="300" alt="moda-1.jpg">
-<img src="assets/img/portfolio/producao-1.jpg" width="300" alt="producao-1.jpg">
-<img src="assets/img/portfolio/producao-2.jpg" width="300" alt="producao-2.jpg">
+<div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center; align-items: center;">
+    <img src="assets/img/portfolio/costura-1.jpg" width="280" style="border-radius: 8px; object-fit: cover;" alt="costura-1.jpg"><img src="assets/img/portfolio/costura-2.jpg" width="280" style="border-radius: 8px; object-fit: cover;" alt="costura-2.jpg"><img src="assets/img/portfolio/costura-3.jpg" width="280" style="border-radius: 8px; object-fit: cover;" alt="costura-3.jpg"><img src="assets/img/portfolio/costura-4.jpg" width="280" style="border-radius: 8px; object-fit: cover;" alt="costura-4.jpg"><img src="assets/img/portfolio/moda-1.jpg" width="280" style="border-radius: 8px; object-fit: cover;" alt="moda-1.jpg"><img src="assets/img/portfolio/producao-1.jpg" width="280" style="border-radius: 8px; object-fit: cover;" alt="producao-1.jpg"><img src="assets/img/portfolio/producao-2.jpg" width="280" style="border-radius: 8px; object-fit: cover;" alt="producao-2.jpg">
+</div>
 
 <!-- IMAGES:END -->
 
