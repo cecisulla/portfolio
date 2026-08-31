@@ -14,7 +14,7 @@ Este espaço é uma amostra do meu trabalho e das minhas habilidades no setor da
 - **Produção & Costura Industrial:** Domínio de máquinas industriais (reta, overlock e galoneira), aplicação de aviamentos e técnicas de acabamento de alta qualidade em alfaiataria e malharia.
 - **Criação & Fichas Técnicas:** Elaboração de fichas técnicas detalhadas, escolha estratégica de tecidos e acompanhamento do desenvolvimento de coleções e peças piloto.
 - **Gestão & Operações:** Sólida experiência em controle de estoque, compras de insumos, organização de processos produtivos e atendimento ao cliente.
-- **Transição de Carresa Estratégica:** Bagagem consolidada em coordenação e gestão que traz um olhar extremamente organizado, detalhista e voltado à eficiência de novos processos.
+- **Transição de Carreira Estratégica:** Bagagem consolidada em coordenação e gestão que traz um olhar extremamente organizado, detalhista e voltado à eficiência de novos processos.
 
 ---
 
@@ -49,7 +49,7 @@ Este espaço é uma amostra do meu trabalho e das minhas habilidades no setor da
 
 ---
 
-## 🧵 Habilidades e Ferramentas do Setor
+## 🧵 Peças e trabalhos realizados
 
 <!-- IMAGES:START -->
 <!-- IMAGES:END -->
