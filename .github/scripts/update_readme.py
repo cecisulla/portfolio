@@ -11,8 +11,16 @@ if not os.path.exists(IMAGE_DIR):
 # 2. Lê e filtra as imagens da pasta
 images = sorted([f for f in os.listdir(IMAGE_DIR) if f.lower().endswith(('.png', '.jpg', '.jpeg', '.webp'))])
 
-# 3. Gera o HTML/Markdown para exibir as imagens em formato de lista ou galeria
-image_list = "\n".join([f'<img src="{IMAGE_DIR}/{img}" width="300" alt="{img}">' for img in images])
+# 3. Gera o HTML com Flexbox para distribuir e alinhar as imagens lado a lado
+image_tags = []
+for img in images:
+    tag = f'<img src="{IMAGE_DIR}/{img}" width="280" style="border-radius: 8px; object-fit: cover;" alt="{img}">'
+    image_tags.append(tag)
+
+# Envolve as imagens em um contêiner flexível
+image_list = f"""<div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center; align-items: center;">
+    {''.join(image_tags)}
+</div>"""
 
 # 4. Lê o README atual
 if not os.path.exists(README_PATH):
